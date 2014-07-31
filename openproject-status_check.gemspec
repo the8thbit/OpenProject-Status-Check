@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/the8thbit/openproject-status_check'
   s.summary     = 'OpenProject Status Check'
   s.description = 'Adds a code in editable text fields which adds a checkbox. When a viewer clicks on the checkbox, the line the checkbox is on is signed with their account name and the date.'
-  s.license     = 'AGPLv3'
+  s.license     = 'AGPLv3+'
 
   s.files = Dir["{app,config,db,doc,lib,vendor}/**/*"] + %w(README.md)
 
