@@ -7,4 +7,4 @@ DO NOT USE, THIS IS NOT FUNCTIONAL YET.
 
 License
 ===============
-This plugin is availible under the GNU Affero GPL v3.0+ license.
+This plugin is availible under the GNU Affero GPL v3.0 license.
