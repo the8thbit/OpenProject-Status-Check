@@ -8,7 +8,7 @@ DO NOT USE, THIS IS NOT FUNCTIONAL YET.
 Credit
 ===============
 
-Status Check is developed and maintained primarily by EMAC Inc. employees. Special thanks go to Eric Rossi and EMAC Inc. as a whole for allowing Status Check to be publicly released as free software. You can learn more about EMAC Inc. at our website, [emacinc.com](http://www.emacinc.com/).
+Status Check is developed and maintained primarily by EMAC Inc. employees. Special thanks go to Eric Rossi and EMAC Inc. as a whole for allowing Status Check to be publicly released as free software. You can learn more about EMAC at our website, [emacinc.com](http://www.emacinc.com/).
 
 License
 ===============
